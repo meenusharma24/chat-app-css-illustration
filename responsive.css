@@ -1,0 +1,82 @@
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .inner-mobile {
+    height: auto;
+    width: 64vw;
+    top: 7%;
+    left: 17%;
+    border: 9px solid white;
+  }
+  .blank {
+    padding: 8px;
+    width: 50%;
+  }
+  .samuel {
+    padding: 11px;
+    font-size: 6px;
+  }
+  .samuel_row {
+    width: 73%;
+  }
+  .samuelGreen {
+    width: 54%;
+  }
+  .chat-left {
+    padding: 3px;
+    margin: 4px;
+    margin-right: 50px;
+    font-size: 8px;
+    line-height: 11px;
+  }
+  .chat-right {
+    padding: 4px;
+    margin: 6px;
+    margin-left: 50px;
+    font-size: 8px;
+    line-height: 15px;
+  }
+  .message {
+    padding: 17px;
+    margin: 0px;
+    font-size: 11px;
+    line-height: 0px;
+    margin-bottom: 0px;
+  }
+  .text {
+    left: 14%;
+    top: 69%;
+    font-size: 12.5px;
+    line-height: 20px;
+    width: 72%;
+    text-align: center;
+  }
+  text p {
+    font-size: 12.5px;
+  }
+  .shape {
+    margin-left: -122px;
+    width: 85vw;
+    height: 62vh;
+  }
+  .shape2 {
+    left: 50vw;
+    top: 40vh;
+    width: 50vw;
+    height: 60vh;
+  }
+  #minutes,
+  #hours {
+    padding: 6px;
+    width: 68%;
+    align-content: space-between;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  .dollor {
+    font-size: 15px;
+    padding-left: 22px;
+  }
+  .icon2 {
+    padding: 8px 12px;
+    margin-left: 137px;
+  }
+}
